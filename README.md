@@ -1,0 +1,2 @@
+# ListaExercicioBD
+Lista Exercício BD 
